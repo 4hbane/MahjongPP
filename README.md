@@ -1,2 +1,2 @@
-# Moroccan_Mahjong-
+# Mahjong++
  Moroccan Mahjong made by a group of students at the National School of Applied Sciences ( ENSA Marrakech ) ; It's a game based on Shanghai Mahjong, but this version has new rules and new options. We've implemented 3 levels for player vs Player and 3 levels for Player vs computer. It was a great time working on this project. I hope you'll enjoy it. I wanna thank my team for such an Amazing work.
